@@ -8,7 +8,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Buildme/blob/6b18de188888b7b066fba5a49cc67c2516a5e466/Frame-5.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Bootstrap_Startup_Template/blob/470eb5d2a9f5b28450760600a8dbc4ace043a285/illustrations/Frame-5.png" alt="Project Banner">
   </br>
 </div>
 </br>
