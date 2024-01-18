@@ -72,7 +72,7 @@ Feel free to contribute, report issues, or suggest improvements. Happy coding!
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Buildme/blob/6b18de188888b7b066fba5a49cc67c2516a5e466/Frame-5.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Bootstrap_Startup_Template/blob/5971f11cf126618c838ae0d43d7b195504b236d9/illustrations/Frame%2032.png" alt="Project Banner">
   </br>
 </div>
 </br>
