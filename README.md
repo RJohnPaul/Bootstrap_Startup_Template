@@ -20,7 +20,7 @@ To use this Bootstrap Startup Template, you'll need the following modules:
   - Website: [https://fonts.google.com/specimen/Raleway](https://fonts.google.com/specimen/Raleway)
 - **Animate.css:** A library of cross-browser CSS animations.
   - Website: [https://animate.style/](https://animate.style/)
-  - 
+    
 Make sure to include these dependencies mentioned in your project to ensure proper functionality and styling.
 
 ## Getting Started
